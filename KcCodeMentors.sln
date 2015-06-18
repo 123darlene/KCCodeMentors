@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KcCodeMentors", "KcCodeMentors\KcCodeMentors.csproj", "{BE5610B0-5C64-4EA5-BC81-0B60F28AE3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KcCodeMentors.Tests", "..\Users\Darlene\Documents\Visual Studio 2013\Projects\KcCodeMentors\KcCodeMentors.Tests\KcCodeMentors.Tests.csproj", "{55332966-9FEE-4C36-8D71-4435A06D3025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5610B0-5C64-4EA5-BC81-0B60F28AE3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5610B0-5C64-4EA5-BC81-0B60F28AE3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5610B0-5C64-4EA5-BC81-0B60F28AE3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5610B0-5C64-4EA5-BC81-0B60F28AE3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55332966-9FEE-4C36-8D71-4435A06D3025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55332966-9FEE-4C36-8D71-4435A06D3025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55332966-9FEE-4C36-8D71-4435A06D3025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55332966-9FEE-4C36-8D71-4435A06D3025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
